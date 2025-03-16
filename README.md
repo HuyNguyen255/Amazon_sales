@@ -208,6 +208,8 @@ ORDER BY To_order ASC, Product ASC
 
 Trong năm 2019, tổng doanh thu của sàn thương mai điện tử Amazon ghi nhận đạt gần hơn 77.9 triệu USD, tăng khoảng 274.24% so với năm liền trước (năm 2019 ghi nhận đạt hơn 20.8 triệu USD. Về lợi nhuận gộp (khi doanh thu thuần trừ đi giá vốn cũng như nhưng chiết khấu) đạt sấp sỉ gần 31.2 triệu USD tăng 240.88% so với năm 2018 (năm 2018 lợi nhuận gộp đạt hơn 9.1 triệu USD). Doanh thu và lợi nhuận trung bình trong khoảng thời gian thu có ghi nhận dữ liệu từ năm 2017 – 2019 ghi nhận đạt lần lượt là khoảng 62.1 triệu USD và hơn 25.9 triệu USD.
 
+Nếu nhìn theo sự tăng trưởng doanh thu theo từng tháng trong 1 năm thì có sự tăng giảm không ổn định giữa các tháng (không bao gồm năm 2018- vì ít sô liệu) nhưng nhìn chung giữa có điểm chung giữa năm 2017 và 2019 là tháng 6 và tháng 9 đều có sự tăng trưởng doanh thu trên 10%. 
+
 Nhưng lưu ý rằng, trong năm 2018 chỉ có có ghi nhận vỏn vẹn trong quý 1 trong khi đó nhưng tháng còn lại trong năm 2018 không ghi nhận dữ liệu hoat động kinh doanh nào.
 
 ### **Lượng khách hàng**
@@ -216,7 +218,11 @@ Về số lượng khách hàng thì trong 3 năm qua tổng lượng khách hà
 
 ### **Đơn hàng và sản lượng sản phẩm**
 
-Về số lượng đơn hàng trung bình hàng tháng có khoảng 637 đơn hàng trong năm 2019, còn về hàng ngày ước lượng có 20 đơn hàng/ngày. Về tổng sản lượng sản phẩm bán được trong năm 2019 đạt 1,260,443 đơn vị sản phẩm, năm 2018 chỉ bán được 326,625 sản phẩm còn năm 2017 số lượng bán được đạt 1,356,123 đơn vị sản phẩm.
+
+Về số lượng đơn hàng trung bình hàng tháng có khoảng 637 đơn hàng trong năm 2019, còn về hàng ngày ước lượng có 20 đơn hàng/ngày. 
+
+Về tổng sản lượng sản phẩm bán được trong năm 2019 đạt 1,260,443 đơn vị sản phẩm, năm 2018 chỉ bán được 326,625 sản phẩm còn năm 2017 số lượng bán được đạt 1,356,123 đơn vị sản phẩm.
+Ngoài ra có thể biết trung bình một đơn hàng có giá trị là khoảng 1.201 USD
 
 ### **Sản phẩm**
 
