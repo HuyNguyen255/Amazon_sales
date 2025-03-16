@@ -204,5 +204,27 @@ ORDER BY To_order ASC, Product ASC
 
 ## Conclusion (Kết luận) 📝
 
+### **Tổng quan**
 
+Trong năm 2019, tổng doanh thu của sàn thương mai điện tử Amazon ghi nhận đạt gần hơn 77.9 triệu USD, tăng khoảng 274.24% so với năm liền trước (năm 2019 ghi nhận đạt hơn 20.8 triệu USD. Về lợi nhuận gộp (khi doanh thu thuần trừ đi giá vốn cũng như nhưng chiết khấu) đạt sấp sỉ gần 31.2 triệu USD tăng 240.88% so với năm 2018 (năm 2018 lợi nhuận gộp đạt hơn 9.1 triệu USD). Doanh thu và lợi nhuận trung bình trong khoảng thời gian thu có ghi nhận dữ liệu từ năm 2017 – 2019 ghi nhận đạt lần lượt là khoảng 62.1 triệu USD và hơn 25.9 triệu USD.
+
+Nhưng lưu ý rằng, trong năm 2018 chỉ có có ghi nhận vỏn vẹn trong quý 1 trong khi đó nhưng tháng còn lại trong năm 2018 không ghi nhận dữ liệu hoat động kinh doanh nào.
+
+### **Lượng khách hàng**
+
+Về số lượng khách hàng thì trong 3 năm qua tổng lượng khách hàng mua hàng trên sàn TMĐT đạt 615 người. Cụ thể hơn, trong năm 2017 ghi nhận có 457 khách hàng, trong năm 2018 ghi nhận 312 và đạt 350 trong năm 2019.
+
+### **Đơn hàng và sản lượng sản phẩm**
+
+Về số lượng đơn hàng trung bình hàng tháng có khoảng 637 đơn hàng trong năm 2019, còn về hàng ngày ước lượng có 20 đơn hàng/ngày. Về tổng sản lượng sản phẩm bán được trong năm 2019 đạt 1,260,443 đơn vị sản phẩm, năm 2018 chỉ bán được 326,625 sản phẩm còn năm 2017 số lượng bán được đạt 1,356,123 đơn vị sản phẩm.
+
+### **Sản phẩm**
+
+Tính theo lũy kế trong 3 năm liên tiếp, sản phẩm bán chạy nhất là Better Large Canned Shrimp với tổng doanh thu đạt khoảng 15.45 triệu USD chiếm đến 33.88% doanh thu tổng của tất của các sản phẩm. Cu thể, trong năm 2017, sản phẩm đừng đầu về doanh thu là Better Large Canned Shrimp (đạt 6.89 triệu USD và chiếm 32.11% trong tổng doanh thu), đối với năm 2018 vẫn là Better Large Canned Shrimp (đạt 2.36 triệu USD và chiếm 38.04%) và cuối cùng năm 2019, sản phẩm đứng đầu là Better Large Canned Shrimp (với doanh thu ghi nhận đạt 6.41 triệu USD và chiếm 33.56%)
+
+## [Hình ảnh từ file Power BI](https://github.com/HuyNguyen255/Amazon_sales/blob/116de97e0fdaa47a9a1084411de1ad10d9bd99db/Amazon%20Dashboard.pbix)
+
+![Main dashboard](Pictures/main_dashboard.png)
+
+![Second table](Pictures/second_table.png)
 
